@@ -8,6 +8,7 @@
 교육과정 ***전체반장**으로 동기들과 적극적으로 커뮤니케이션을 하여 함께 성장하고자 노력하였습니다.  
 * 발전해 나가는 개발자가 되기 위해 ***6개월간 매일 12시간 이상*** 집중하며 노력하였고,  
 이렇게 성실하게 적극적으로 소통하며 노력한 덕분에 훈련을 종료하며 **개인 최우수상**, **팀프로젝트 최수상**의 결과를 얻을 수 있었습니다.
+  <img src="page/상장.jpg" alt="상장" width="300" height="500">
 
 
 
@@ -15,29 +16,33 @@
  > ### 대표 프로젝트 (Echo Recycilng Hub)
 [Echo Recycilng Hub](https://github.com/KangYeonbae/Project1_3) 보러가기!  
 * 역활
-  *  Chat_bot
-     * STT/TTS
-     * 인공지능 사진분류 모델  
+  ### *  Chat_bot
+         * STT/TTS
+         * 인공지능 사진분류 모델  
   <img src="page/chat_bot1.jpg" alt="gr" width="400" height="500">
   <img src="page/chat_bot.jpg" alt="gr" width="400" height="500">
 
-  *  Map_page
-      * 추천알고리즘
-      * 자동차 길찾기 구현
-      * 버스 길찾기 구현
-      * 마커 분류
-      * 업체정보
+  ###  *  Map_page
+        * 추천알고리즘
+        * 자동차 길찾기 구현
+        * 버스 길찾기 구현
+        * 마커 분류
+        * 업체정보
   <img src="page/map_page1.JPG" alt="gr" width="700" height="400">
-  <img src="page/map_page2.JPG" alt="gr" width="700" height="400">
-
-  * 프로젝트 소개페이지
-      * AI가 스크립트를 읽어주는 페이지
- <img src="page/info_page.JPG" alt="gr" width="700" height="400">  
+  <img src="page/map_page2.JPG" alt="gr" width="700" height="400">  
   
-  * 팀원 페이지 및 자료 취합
-  * 오류해결
-
-
+  
+ ###  * 프로젝트 소개페이지
+        * AI가 스크립트를 읽어주는 페이지  
+ <img src="page/info_page.JPG" alt="gr" width="700" height="400">  
+   
+    
+  ### * 팀원 페이지 및 자료 취합
+  ### * 오류해결  
+  
+  
+        
+  
   # 🚨 오류해결
 
   **목표를 보고 끈기있게 도전하면 해결할 수 있다!**
