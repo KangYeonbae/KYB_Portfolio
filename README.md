@@ -35,6 +35,7 @@
   
  ###  * 프로젝트 소개페이지
         * AI가 스크립트를 읽어주는 페이지  
+          스크립트 뒤에 영상이 재생되며 스크립트를 읽어줍니다.
  <img src="page/info_page.JPG" alt="gr" width="700" height="400">  
    
     
