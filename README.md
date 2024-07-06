@@ -1,4 +1,4 @@
-![KYB1](https://github.com/KangYeonbae/KYB_Portfolio/assets/153577573/414776ad-1bd3-4d1e-8042-db7895d7ca9a)# 👍 강연배  Portfolio
+# 👍 강연배  Portfolio
 
 안녕하세요, **커뮤니케이션을 잘하는 개발자**, **목표에 집중하며 발전해나가는 개발자** **강연배** 입니다!
 
