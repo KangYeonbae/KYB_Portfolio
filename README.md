@@ -32,6 +32,8 @@
 
   * 프로젝트 소개페이지
       * AI가 스크립트를 읽어주는 페이지
+ <img src="page/info_page.JPG" alt="gr" width="400" height="500">  
+  
   * 팀원 페이지 및 자료 취합
   * 오류해결
 
