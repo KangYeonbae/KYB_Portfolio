@@ -134,19 +134,15 @@
  [Trip!](https://github.com/KangYeonbae/teamProject) 구현화보러가기! 
 
  * 역활
-  *  전체페이지 UI/UX
-  *  공지사항 게시판
-  *  로그인,회원가입 구현
-  *  팀원 역량 향상 시키기 
-  *  chart 구현
-  *  db관리
-      * 로그인과 회원가입을위한 db
-      * 팀원 db 취합
-  * 여행 상세 페이지
-      * 자료수집
-      * map구현, 마커 찍기
-  * 오류해결(개인&팀원)
-  * 팀원자료취합
+###  *  메인페이지
+###  *  chat_bot
+  <img src="page/2.jpg" alt="gr1" width="700" height="400">  
+
+
+###  *  강릉페이지
+    <img src="page/3.jpg" alt="gr1" width="700" height="400">  
+
+###  *  팀원페이지 취합
 
   
 
