@@ -1,4 +1,4 @@
-# 👍 강연배  Portfolio
+![KYB1](https://github.com/KangYeonbae/KYB_Portfolio/assets/153577573/414776ad-1bd3-4d1e-8042-db7895d7ca9a)# 👍 강연배  Portfolio
 
 안녕하세요, **커뮤니케이션을 잘하는 개발자**, **목표에 집중하며 발전해나가는 개발자** **강연배** 입니다!
 
@@ -77,20 +77,38 @@
  [서울을 누리다!](https://github.com/KangYeonbae/team_project2) 보러가기!  
 
  * 역활
-  *  전체페이지 UI/UX
-  *  공지사항 게시판
-  *  로그인,회원가입 구현
-  *  팀원 역량 향상 시키기 
-  *  chart 구현
-  *  db관리
-      * 로그인과 회원가입을위한 db
-      * 팀원 db 취합
-  * 여행 상세 페이지
-      * 자료수집
-      * map구현, 마커 찍기
-  * 오류해결(개인&팀원)
-  * 팀원자료취합
+ ###  *  전체페이지 UI/UX
+ ###  *  챗봇
+   <img src="page/chat.JPG" alt="gr1" width="700" height="400">  
+   
+ ###  *  공지사항 게시판     
+  <img src="page/게시판.png" alt="게시판" width="700" height="400">    
+   
+ ###  *  로그인,회원가입 구현  
+   <img src="page/login.gif" alt="로그인" width="700" height="400">  
+   
+ ###  *  팀원 역량 향상 시키기 
+ ###  *  chart 구현
+  <img src="page/KYB1.gif" alt="gr1" width="700" height="400">  
+    <img src="page/KYB2.gif" alt="gr2" width="700" height="400">  
+      <img src="page/KYB3.gif" alt="gr3" width="700" height="400">  
+ 
+ ###  *  db관리
+          * 로그인과 회원가입을위한 db
+          * 팀원 db 취합
+###  * 여행 상세 페이지
+          * 자료수집
+          * map구현, 마커 찍기
 
+  <img src="page/B1.JPG" alt="gr1" width="700" height="400">
+    <img src="page/B2.JPG" alt="gr1" width="700" height="400">  
+  <img src="page/B3.JPG" alt="gr1" width="700" height="400">  
+
+          
+      
+###  * 오류해결(개인&팀원)
+###  * 팀원자료취합
+  <img src="page/라우팅.jpg" alt="gr1" width="700" height="400">  
 
 
   # 🚨 오류해결
